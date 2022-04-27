@@ -27,9 +27,7 @@ Who am I? A developer, a passionate person, a perfectionist... who likes to code
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript -  Vue3- Docker  
-- 📫 How to reach me: [<img src='./img/linkedin-dark.svg' alt='github' height='20'>](https://www.linkedin.com/in/ginet-florian)
-
-![linkedin](/img/linkedin-dark.svg)(https://www.linkedin.com/in/ginet-florian)
+- 📫 How to reach me: email 
 
 <br>
 <br>
