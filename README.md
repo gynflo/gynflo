@@ -1,11 +1,17 @@
-### Hi there 👋, my name is Florian Ginet
+# Hi there 👋, my name is Florian Ginet
 
-####  Full Stack Developer
-(![ Full Stack Developer](https://www.canva.com/design/DAE_EFHgN4A/OijMcRJZmX8_q-9k-hCrtA/view?utm_content=DAE_EFHgN4A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+##  Full Stack Developer
+<br>
 
-Who am I? A developer, a passionate person, a perfectionist... who likes to code, to learn, to understand, to exchange, to look for, to convince but also a dad, a gamer who likes challenges, things well done, problems to solve...
+![Full Stack Developer](./img/fullstack_banner.png)
 
-### Languages and Tools
+Who am I? A developer, a passionate person, a perfectionist... who likes to code, to  
+learn, to understand, to exchange, to look for, to convince but also a dad, a gamer who  
+ likes challenges, things well done, problems to solve...
+<br>
+# Languages and Tools  
+<br>
+
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -26,11 +32,11 @@ Who am I? A developer, a passionate person, a perfectionist... who likes to code
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript -  Vue3- Docker  
-- 📫 How to reach me: email 
+- 📫 How to reach me: gynflo@gmail.com
 
-<br>
-<br>
-<br>
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gynflo)](https://github.com/anuraghazra/github-readme-stats)
