@@ -1,6 +1,9 @@
 # Hi there 👋, my name is Florian Ginet
 
-##  Full Stack Developer
+##  Full Stack Developer 
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
+&nbsp;&nbsp;
 <br>
 
 ![Full Stack Developer](./img/fullstack_banner.png)
@@ -8,10 +11,8 @@
 Who am I? A developer, a passionate person, a perfectionist... who likes to code, to  
 learn, to understand, to exchange, to look for, to convince but also a dad, a gamer who  
  likes challenges, things well done, problems to solve...
-<br>
-# Languages and Tools  
-<br>
 
+## Languages and Tools  
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -34,9 +35,7 @@ learn, to understand, to exchange, to look for, to convince but also a dad, a ga
 - 🌱 I’m currently learning TypeScript -  Vue3- Docker  
 - 📫 How to reach me: gynflo@gmail.com
 
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gynflo)](https://github.com/anuraghazra/github-readme-stats)
