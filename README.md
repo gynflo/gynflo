@@ -1,12 +1,8 @@
 # Hi there 👋, my name is Florian Ginet
 
-<<<<<<< HEAD
 ##  Full Stack Developer
 <br>
 
-=======
-####  Full Stack Developer
->>>>>>> f6324188aedbea19aa60c4c3ca01857b6bb0cdf2
 ![Full Stack Developer](./img/fullstack_banner.png)
 
 Who am I? A developer, a passionate person, a perfectionist... who likes to code, to  
@@ -36,18 +32,11 @@ learn, to understand, to exchange, to look for, to convince but also a dad, a ga
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript -  Vue3- Docker  
-<<<<<<< HEAD
 - 📫 How to reach me: gynflo@gmail.com
 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
 &nbsp;&nbsp;
-=======
-- 📫 How to reach me: gynflo@gmail.com 
-
-
-
->>>>>>> f6324188aedbea19aa60c4c3ca01857b6bb0cdf2
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gynflo)](https://github.com/anuraghazra/github-readme-stats)
