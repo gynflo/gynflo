@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Florian Ginet
 
 ##  Full Stack Developer 
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/ginet-florian/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ginet-florian/#gh-dark-mode-only)
 &nbsp;&nbsp;
 <br>
 
