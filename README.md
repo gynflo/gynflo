@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is Florian
 
-Qui suis-je ? Un développeur, un passionné, un perfectionniste... qui aime coder, apprendre, comprendre,échanger, chercher, convaincre mais aussi un papa, un gamer qui aime les challenges, les choses bien faites, les problèmes à résoudre...
+####  Full Stack Developer
+![ Full Stack Developer](https://www.canva.com/design/DAE_EFHgN4A/OijMcRJZmX8_q-9k-hCrtA/view?utm_content=DAE_EFHgN4A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gynflo&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+Who am I? A developer, a passionate person, a perfectionist... who likes to code, to learn, to understand, to exchange, to look for, to convince but also a dad, a gamer who likes challenges, things well done, problems to solve...
+
+Skills: VUE JS / TS / HTML / SCSS / NODE JS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning TypeScript -  Vue3- Docker  
+- 📫 How to reach me: www.linkedin.com/in/ginet-florian 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gynflo)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gynflo)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/gynflo)  
