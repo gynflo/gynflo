@@ -26,11 +26,10 @@ Who am I? A developer, a passionate person, a perfectionist... who likes to code
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning TypeScript -  Vue3- Docker  
-- 📫 How to reach me: email 
+- 📫 How to reach me: gynflo@gmail.com 
 
-<br>
-<br>
-<br>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gynflo)](https://github.com/anuraghazra/github-readme-stats)
