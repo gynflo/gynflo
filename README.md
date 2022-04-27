@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Florian Ginet
 
 ####  Full Stack Developer
-(![ Full Stack Developer](https://www.canva.com/design/DAE_EFHgN4A/OijMcRJZmX8_q-9k-hCrtA/view?utm_content=DAE_EFHgN4A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+![Full Stack Developer](./img/fullstack_banner.png)
 
 Who am I? A developer, a passionate person, a perfectionist... who likes to code, to learn, to understand, to exchange, to look for, to convince but also a dad, a gamer who likes challenges, things well done, problems to solve...
 
