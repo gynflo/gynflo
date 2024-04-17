@@ -32,8 +32,8 @@ learn, to understand, to exchange, to look for, to convince but also a dad, a ga
 <br>
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning TypeScript -  Vue3- Docker  
-- 📫 How to reach me: gynflo@gmail.com
+- 🌱 I’m currently learning TypeScript -  Nextjs- Docker  
+- 📫 How to reach me: ginet.florian.dev@gmail.com
 
 
 
